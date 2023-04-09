@@ -1,0 +1,16 @@
+{
+  "name": "backjoon",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "tsc && node out/index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3"
+  }
+}
